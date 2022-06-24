@@ -1,0 +1,17 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+#coluna {
+  height: 800px;
+  background: url(../img/coluna.png) repeat-y;
+  padding: 15px;
+}
+
+#coluna li {
+  list-style: none;
+}
+
+#coluna a {
+  text-decoration: none;
+}
